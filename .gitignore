@@ -1,0 +1,12 @@
+# Ignore generated, temporary and private files
+_site/
+*.zip
+*.rar
+*.7z
+.DS_Store
+.env
+.env.*
+!.env.example
+*.bak
+*.log
+node_modules/
